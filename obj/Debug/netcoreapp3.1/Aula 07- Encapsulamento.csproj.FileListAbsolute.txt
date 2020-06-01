@@ -1,0 +1,13 @@
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\obj\Debug\netcoreapp3.1\Aula 07- Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\obj\Debug\netcoreapp3.1\Aula 07- Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\obj\Debug\netcoreapp3.1\Aula 07- Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\obj\Debug\netcoreapp3.1\Aula 07- Encapsulamento.AssemblyInfo.cs
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\bin\Debug\netcoreapp3.1\Aula 07- Encapsulamento.exe
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\bin\Debug\netcoreapp3.1\Aula 07- Encapsulamento.deps.json
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\bin\Debug\netcoreapp3.1\Aula 07- Encapsulamento.runtimeconfig.json
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\bin\Debug\netcoreapp3.1\Aula 07- Encapsulamento.runtimeconfig.dev.json
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\bin\Debug\netcoreapp3.1\Aula 07- Encapsulamento.dll
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\bin\Debug\netcoreapp3.1\Aula 07- Encapsulamento.pdb
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\obj\Debug\netcoreapp3.1\Aula 07- Encapsulamento.dll
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\obj\Debug\netcoreapp3.1\Aula 07- Encapsulamento.pdb
+C:\Users\Ediram\Desktop\SENAI\Aula 07- Encapsulamento\obj\Debug\netcoreapp3.1\Aula 07- Encapsulamento.genruntimeconfig.cache
